@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="list">
+        <item>Plumbing</item>
+        <item>Furniture</item>
+
+    </string-array>
+
+</resources>
